@@ -2,7 +2,7 @@
 <html>
 <body>
   <div>
-  <h1>App ruby blog de famille - THP</h1>
+  <h1>App ruby MOOCademy - THP</h1>
     <h2>Groupe de Rennes Leona Chevrel et Christophe Leray </h2>
       <h3>Ruby version: 2.5.1</h3>
    <h2>How to install and test?</h2>
@@ -23,7 +23,7 @@
       </div>
       <div>
         <h2>Database structure: </h3>
-        <p>5 tables:</p>
+        <p>2 tables:</p>
         <ul> 
           <li>courses</li>
           <li>lessons</li>
