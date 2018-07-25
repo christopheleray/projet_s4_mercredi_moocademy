@@ -12,7 +12,7 @@
         <code>$ bundle install</code>
       <h4>Update your database structure with the migration command.The database in not uploaded to github, so it is necessary tu run the differents migrations:</h4>
         <code>$ rails db:migrate</code> 
-      <h4><Add data into your database with the seed file:</h4>
+      <h4>Add data into your database with the seed file:</h4>
         <code>$ rails db:seed</code>
       <h4>Open the rails consol with rails consol command and check if datas have been created by using the following command:</h4>
         <code>User.all</code>
